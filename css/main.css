@@ -1,0 +1,107 @@
+/* Inserta tu CSS aqui */
+.imagengrande {
+	background:url(../images/background.jpg);
+	background-size:150%;
+	height:500px;
+	text-align:center;
+	box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+	-moz-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+	-webkit-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+
+}
+.logo {
+	margin-left:10px;
+	margin-top:100px;
+}
+.nombre {
+	color:black;
+	font-size:50px;
+	text-shadow: 0px 2px 3px #555;
+	font-family: 'Mr Dafoe', cursive;
+	font-size:70px;
+}
+.frase {
+	color:#F0C0E5;
+	text-shadow: 0px 2px 3px #555;
+	font-family: 'Satisfy', cursive;
+}
+.menu {
+	display:inline;
+	margin-left:80px;
+	font-family: 'Oswald', sans-serif;
+}
+.barramenu {
+	margin-top:35px;
+	margin-left:200px;
+}
+.textura {
+	background:url(../images/tile1.png);
+}
+.fotoperfil {
+	padding:5px;
+	border:1px solid black;
+	margin-top:20px;
+}
+.about {
+	padding:30px;
+	font-size:40px;
+	color:black;
+	text-shadow: 0px 2px 3px #555;
+	font-family: 'Oswald', sans-serif;
+}
+.texto {
+	font-family: 'Oswald', sans-serif;
+	font-size:13px;
+}
+.cosasfav {
+	margin-top:30px;
+	color:black;
+	text-align:center;
+	text-shadow: 0px 2px 3px #555;
+	font-family: 'Oswald', sans-serif;
+	font-size:30px;
+}
+.cosasfavdos {
+	margin-top:20px;
+	color:black;
+	text-align:center;
+	text-shadow: 0px 2px 3px #555;
+	font-family: 'Satisfy', cursive;
+	font-size:20px;
+}
+.row-fotos {
+	margin-top:200px;
+	height:300px;
+}
+.fotos-row {
+	margin-top:20px;
+	height:220px;
+    width:220px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+    border:2px solid black;
+    padding:5px;
+}
+.texturados {
+	background:url(../images/tile2.png);
+	height:300px;
+	padding-left:400px;
+	padding-top:60px;
+	box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+	-moz-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+	-webkit-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+}
+.logo-redes {
+	margin-left:20px;
+}
+.contacto {
+	margin-left:170px;
+	margin-bottom:40px;
+	color:black;
+	font-size:30px;
+	font-family: 'Oswald', sans-serif;
+	text-shadow: 0px 2px 3px #555;
+}
+
